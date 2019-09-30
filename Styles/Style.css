@@ -1,12 +1,26 @@
 html {
-	background-color: maroon;
+	background-color: black;
 }
 
 body {
-	background-color: orange;
+	background-color: cyan;
 	margin: auto;
 	max-width: 600px;
 	height: 600px;
-	
+
 }
-	
+	p{
+		color: black;
+	}
+	ol{
+		color: black;
+	}
+ul{
+	color: black;
+}
+h1{
+	color: black;
+}
+mark{
+	color: white;
+}

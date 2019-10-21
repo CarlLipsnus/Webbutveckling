@@ -1,0 +1,26 @@
+html {
+	background-color: black;
+}
+
+body {
+	background-color: black;
+	margin: auto;
+	max-width: 600px;
+	height: 600px;
+
+}
+	p{
+		color: red;
+	}
+	ol{
+		color: yellow;
+	}
+ul{
+	color: yellow;
+}
+h1{
+	color: red;
+}
+mark{
+	color: blue;
+}
